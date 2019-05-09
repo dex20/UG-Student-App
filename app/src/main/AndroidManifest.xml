@@ -21,7 +21,8 @@
         </activity>
         <activity android:name=".Devless" />
         <activity android:name=".Php" />
-        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Activity"></activity>
     </application>
 
 </manifest>
